@@ -1,0 +1,21 @@
+for ne in j.net[0].neu:
+	print(ne.weight)
+	print()
+
+
+for ne in j.net[1].neu:
+	print(ne.weight)
+	print()
+
+for ne in j.net[1].neu:
+	print(ne.b)
+	print()
+
+
+
+for ne in j.net[2].neu:
+	print(ne.b)
+	print()
+
+
+https://blog.csdn.net/meanme/article/details/45922451
